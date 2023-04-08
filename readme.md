@@ -8,15 +8,15 @@ Stable tag: 1.0
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-The Chrilia Sync plugin allows you to easily sync your products with the Chrilia search engine.
+# The Chrilia Sync plugin allows you to easily sync your products with the Chrilia search engine.
 
-Features
+# Features
 
-Sync your products with the Chrilia search engine.
-Easy setup and configuration.
-Automatic sync history and status tracking.
+    Sync your products with the Chrilia search engine.
+    Easy setup and configuration.
+    Automatic sync history and status tracking.
 
-Installation & Usage
+# Installation & Usage
 
 Install and activate the plugin in your WordPress site.
 
@@ -30,7 +30,7 @@ If there are any errors during the sync process, the plugin will log them and di
 
 The plugin will periodically sync your product data with Chrilia to ensure that it remains up-to-date in their search engine. You can configure the frequency of these syncs in the plugin settings.
 
-Support
+# Support
 
 If you need help or have any questions or issues, please contact us at support@chrilia.com.
 License
